@@ -12,6 +12,8 @@ public class f
 	System.out.println("hello");
 		
 	System.out.println("amkit nhai");
+	
+	System.out.println("akshuuu");
 	}
 
 }
